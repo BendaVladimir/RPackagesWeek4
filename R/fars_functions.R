@@ -1,3 +1,5 @@
+library(dplyr)
+
 #' Load farse data from csv file
 #'
 #'  This function will used to import csv file to tydeverse tibble format.
@@ -26,7 +28,7 @@ fars_read <- function(filename) {
 #'  number. In case that input is not numeric, than function changes
 #'  type to numeric.
 #'
-#' @param year
+#' @param year This parameter defines a year for which file will be imported
 #'
 #' @return Returns string that contains file name
 #'

@@ -7,7 +7,7 @@
 make_filename(year)
 }
 \arguments{
-\item{year}{}
+\item{year}{This parameter defines a year for which file will be imported}
 }
 \value{
 Returns string that contains file name
