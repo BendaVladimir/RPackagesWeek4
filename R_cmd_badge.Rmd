@@ -1,0 +1,1 @@
+[![R-CMD-check](https://github.com/BendaVladimir/RPackagesWeek4/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/BendaVladimir/RPackagesWeek4/actions/workflows/check-standard.yaml)
